@@ -1,0 +1,22 @@
+0 Key:   Value: 0
+1 Key: Trees Value: 111000
+2 Key: ! Value: 1100
+3 Key: a Value: 110111
+4 Key: sure Value: 10101
+5 Key: works Value: 110101
+6 Key: test Value: 10111
+7 Key: for Value: 10010
+8 Key: tree Value: 111100
+9 Key: is Value: 111010
+10 Key: it Value: 110110
+11 Key: World Value: 111111
+12 Key: our Value: 10110
+13 Key: . Value: 111110
+14 Key: properly Value: 110100
+15 Key: coding Value: 10011
+16 Key: Hello Value: 10001
+17 Key: are Value: 111101
+18 Key: This Value: 10000
+19 Key: to Value: 111011
+20 Key: make Value: 10100
+21 Key: fun Value: 111001
